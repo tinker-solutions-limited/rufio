@@ -1,5 +1,6 @@
 # rufio
 
+> Super simple git deployments via web-hook
 
 ## Requirements
 
