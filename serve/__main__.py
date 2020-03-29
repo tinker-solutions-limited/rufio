@@ -7,7 +7,7 @@ load_dotenv()
 app = Flask(__name__)
 
 @app.route('/')
-def hello_world():
+def hello_root():
     return 'Hello, Root!'
 
 @app.route('/uwu-bot/')
